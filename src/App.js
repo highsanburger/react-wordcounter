@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <h1>Responsive Paragraph Word Counter</h1>
       <textarea
-        placeholder="Type your text here..."
+        placeholder="Type here..."
         rows="5"
         value={text}
         onChange={handleTextChange}
